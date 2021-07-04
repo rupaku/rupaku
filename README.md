@@ -1,4 +1,5 @@
 ### Hi I am Rupa 👋
+
 - 🔭 AWS Cloud Practitioner Certified
 - 💻 Full Stack developer at Principal Financials Group
 - ✍🏻 Work experience : 5 years
@@ -17,6 +18,8 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/05b409efb6f95b34435fe13903720bf3fba39679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c"><img src="https://camo.githubusercontent.com/05b409efb6f95b34435fe13903720bf3fba39679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c" alt="MySQL" data-canonical-src="https://img.shields.io/badge/-MySQL-black?style=flat-square&amp;logo=mysql" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f727a434e8503e5143f5e7afb2d0c5425ddc91e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572"><img src="https://camo.githubusercontent.com/f727a434e8503e5143f5e7afb2d0c5425ddc91e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572" alt="Docker" data-canonical-src="https://img.shields.io/badge/-Docker-black?style=flat-square&amp;logo=docker" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562"><img src="https://camo.githubusercontent.com/3f5a17ab56610b19378b1c3fcc589c330e4c7bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github" style="max-width:100%;"></a>
+<div>&#x1f4c8; GitHub Stats </div>
+ 
 </div>
 <a href="https://https://github.com/rupaku/rupaku">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupaku&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
