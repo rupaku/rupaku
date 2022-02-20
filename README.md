@@ -3,7 +3,7 @@
 <img align="right" height="200px" width="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - 🔭 AWS Cloud Practitioner Certified<br/>
 - 💻 Full Stack developer at Principal Financials Group<br/>
-- ✍🏻 Work experience : 4.9 years<br/>
+- ✍🏻 Work experience : 5 years<br/>
 - 🔭 I’m currently working on Python, AWS , Reactjs, Django<br/>
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rupakumari201/)<br/>
 - 📫 Email : rupa.rk201@gmail.com<br/>
