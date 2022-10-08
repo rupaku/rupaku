@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on Python, AWS , Reactjs, Django<br/>
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rupakumari201/)<br/>
 - 📫 Email : rupa.rk201@gmail.com<br/>
+- Blog Series : https://dev.to/rupaku/devops-getting-started-3c6c
 
 ----------------------------------------
 
