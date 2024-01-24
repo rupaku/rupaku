@@ -4,7 +4,7 @@
 - 🔭 AWS Cloud Practitioner Certified<br/>
 - 💻 Senior Software developer at Principal Financials Group<br/>
 - ✍🏻 Work experience : 7 years<br/>
-- [![Contact me on Codementor](https://www.codementor.io/m-badges/rupakumari/get-help.svg)](https://www.codementor.io/@rupakumari?refer=badge) <br/>
+- Contact me on Codementor: [Codementor](https://www.codementor.io/@rupakumari) <br/>
 - 🔭 I’m currently working on Python, AWS , Reactjs, Django<br/>
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rupakumari201/)<br/>
 - 📫 Email : rupa.rk201@gmail.com<br/>
